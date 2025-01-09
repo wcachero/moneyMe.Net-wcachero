@@ -1,0 +1,729 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109144003_InitializeDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250109144003_InitializeDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\controllers\\blacklistedemaildomaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:controllers\\blacklistedemaildomaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\controllers\\blacklistedphonenumberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:controllers\\blacklistedphonenumberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\services\\customerdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:services\\customerdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\controllers\\customerdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:controllers\\customerdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\model\\customerloandetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:model\\customerloandetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\repository\\customerloandetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:repository\\customerloandetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\data\\moneymedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:data\\moneymedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\controllers\\loanproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:controllers\\loanproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\model\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:model\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\validators\\blacklistedphonenumbersdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:validators\\blacklistedphonenumbersdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\dto\\customerdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:dto\\customerdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\repository\\customerdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:repository\\customerdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\model\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:model\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\repository\\loanproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:repository\\loanproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\icustomerloandetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:interface\\icustomerloandetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109092343_updateDatabaseC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250109092343_updateDatabaseC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\dto\\customerloandetaidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:dto\\customerloandetaidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\icustomerdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:interface\\icustomerdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109082714_updateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250109082714_updateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\iloanproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:interface\\iloanproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\services\\loanproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:services\\loanproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\iloanproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:interface\\iloanproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\model\\blacklistedemaildomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:model\\blacklistedemaildomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\repository\\blacklistedemaildomainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:repository\\blacklistedemaildomainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\iblacklistedphonenumbersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:interface\\iblacklistedphonenumbersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\iblacklistedphonenumbersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:interface\\iblacklistedphonenumbersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\iblacklistedemaildomainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:interface\\iblacklistedemaildomainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\iblacklistedemaidomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:interface\\iblacklistedemaidomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\repository\\blacklistedphonenumbersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:repository\\blacklistedphonenumbersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\services\\blacklistedemaildomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:services\\blacklistedemaildomainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\services\\blacklistedphonenumbersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:services\\blacklistedphonenumbersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\validators\\customerdetaildtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:validators\\customerdetaildtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\interface\\icustomerdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:interface\\icustomerdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\loanapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|LoanApplication.csproj|solutionrelative:loanapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|c:\\users\\wilso\\onedrive\\documents\\new folder (2)\\webapplication2\\model\\blacklistedphonenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E9981B-670B-4F40-BBC1-5418D46D3879}|WebApplication2.csproj|solutionrelative:model\\blacklistedphonenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20241226065843_InitializeDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241226065843_InitializeDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20241226064937_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241226064937_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\ICustomerDetailRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\ICustomerDetailRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\ICustomerDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\ICustomerDetailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250109144003_InitializeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109144003_InitializeDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250109144003_InitializeDatabase.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109144003_InitializeDatabase.cs",
+              "RelativeToolTip": "Migrations\\20250109144003_InitializeDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:40:03.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoneyMeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Data\\MoneyMeDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MoneyMeDbContext.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Data\\MoneyMeDbContext.cs",
+              "RelativeToolTip": "Data\\MoneyMeDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:52:03.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlacklistedPhoneNumbersController.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Controllers\\BlacklistedPhoneNumbersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlacklistedPhoneNumbersController.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Controllers\\BlacklistedPhoneNumbersController.cs",
+              "RelativeToolTip": "Controllers\\BlacklistedPhoneNumbersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:37:33.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackListedEmailDomainController.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Controllers\\BlackListedEmailDomainController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlackListedEmailDomainController.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Controllers\\BlackListedEmailDomainController.cs",
+              "RelativeToolTip": "Controllers\\BlackListedEmailDomainController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:41:03.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Services\\CustomerDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerDetailService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Services\\CustomerDetailService.cs",
+              "RelativeToolTip": "Services\\CustomerDetailService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAnwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:16:01.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T09:41:49.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerLoanDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\CustomerLoanDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerLoanDetailRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\CustomerLoanDetailRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerLoanDetailRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:40:40.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerLoanDetails.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\CustomerLoanDetails.cs",
+              "RelativeDocumentMoniker": "Model\\CustomerLoanDetails.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\CustomerLoanDetails.cs",
+              "RelativeToolTip": "Model\\CustomerLoanDetails.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:41:35.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Controllers\\CustomerDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerDetailController.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Controllers\\CustomerDetailController.cs",
+              "RelativeToolTip": "Controllers\\CustomerDetailController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAnwFcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:40:05.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:53:12.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Model\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\ErrorResponse.cs",
+              "RelativeToolTip": "Model\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:33:13.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoanProductController.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Controllers\\LoanProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoanProductController.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Controllers\\LoanProductController.cs",
+              "RelativeToolTip": "Controllers\\LoanProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:47:53.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlacklistedPhoneNumbersDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Validators\\BlacklistedPhoneNumbersDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\BlacklistedPhoneNumbersDtoValidator.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Validators\\BlacklistedPhoneNumbersDtoValidator.cs",
+              "RelativeToolTip": "Validators\\BlacklistedPhoneNumbersDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:37:33.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Dto\\CustomerDetailDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CustomerDetailDto.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Dto\\CustomerDetailDto.cs",
+              "RelativeToolTip": "Dto\\CustomerDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:25:53.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\CustomerDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerDetailRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\CustomerDetailRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerDetailRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:14:27.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDetail.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\CustomerDetail.cs",
+              "RelativeDocumentMoniker": "Model\\CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\CustomerDetail.cs",
+              "RelativeToolTip": "Model\\CustomerDetail.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:38:58.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\LoanProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LoanProductRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\LoanProductRepository.cs",
+              "RelativeToolTip": "Repository\\LoanProductRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:37:45.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICustomerLoanDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ICustomerLoanDetailRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\ICustomerLoanDetailRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ICustomerLoanDetailRepository.cs",
+              "RelativeToolTip": "Interface\\ICustomerLoanDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:36:29.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250109092343_updateDatabaseC.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109092343_updateDatabaseC.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250109092343_updateDatabaseC.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109092343_updateDatabaseC.cs",
+              "RelativeToolTip": "Migrations\\20250109092343_updateDatabaseC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:23:44.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerLoanDetaiDto.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Dto\\CustomerLoanDetaiDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CustomerLoanDetaiDto.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Dto\\CustomerLoanDetaiDto.cs",
+              "RelativeToolTip": "Dto\\CustomerLoanDetaiDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:32:57.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICustomerDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ICustomerDetailService.cs",
+              "RelativeDocumentMoniker": "Interface\\ICustomerDetailService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ICustomerDetailService.cs",
+              "RelativeToolTip": "Interface\\ICustomerDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:29:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250109082714_updateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109082714_updateDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250109082714_updateDatabase.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20250109082714_updateDatabase.cs",
+              "RelativeToolTip": "Migrations\\20250109082714_updateDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:27:15.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILoanProductService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ILoanProductService.cs",
+              "RelativeDocumentMoniker": "Interface\\ILoanProductService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ILoanProductService.cs",
+              "RelativeToolTip": "Interface\\ILoanProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:13:34.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoanProductService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Services\\LoanProductService.cs",
+              "RelativeDocumentMoniker": "Services\\LoanProductService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Services\\LoanProductService.cs",
+              "RelativeToolTip": "Services\\LoanProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:58:21.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILoanProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ILoanProductRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\ILoanProductRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ILoanProductRepository.cs",
+              "RelativeToolTip": "Interface\\ILoanProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:36:23.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlackListedEmailDomainRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\BlackListedEmailDomainRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BlackListedEmailDomainRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\BlackListedEmailDomainRepository.cs",
+              "RelativeToolTip": "Repository\\BlackListedEmailDomainRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:57:07.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BlackListedEmailDomain.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\BlackListedEmailDomain.cs",
+              "RelativeDocumentMoniker": "Model\\BlackListedEmailDomain.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\BlackListedEmailDomain.cs",
+              "RelativeToolTip": "Model\\BlackListedEmailDomain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:57:05.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBlacklistedPhoneNumbersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\IBlacklistedPhoneNumbersRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IBlacklistedPhoneNumbersRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\IBlacklistedPhoneNumbersRepository.cs",
+              "RelativeToolTip": "Interface\\IBlacklistedPhoneNumbersRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:57:17.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBlacklistedPhoneNumbersService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\IBlacklistedPhoneNumbersService.cs",
+              "RelativeDocumentMoniker": "Interface\\IBlacklistedPhoneNumbersService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\IBlacklistedPhoneNumbersService.cs",
+              "RelativeToolTip": "Interface\\IBlacklistedPhoneNumbersService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:57:18.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBlackListedEmailDomainRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\IBlackListedEmailDomainRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IBlackListedEmailDomainRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\IBlackListedEmailDomainRepository.cs",
+              "RelativeToolTip": "Interface\\IBlackListedEmailDomainRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:57:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBlackListedEmaiDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\IBlackListedEmaiDomainService.cs",
+              "RelativeDocumentMoniker": "Interface\\IBlackListedEmaiDomainService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\IBlackListedEmaiDomainService.cs",
+              "RelativeToolTip": "Interface\\IBlackListedEmaiDomainService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:57:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlacklistedPhoneNumbersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\BlacklistedPhoneNumbersRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BlacklistedPhoneNumbersRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\BlacklistedPhoneNumbersRepository.cs",
+              "RelativeToolTip": "Repository\\BlacklistedPhoneNumbersRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:57:10.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BlackListedEmailDomainService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Services\\BlackListedEmailDomainService.cs",
+              "RelativeDocumentMoniker": "Services\\BlackListedEmailDomainService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Services\\BlackListedEmailDomainService.cs",
+              "RelativeToolTip": "Services\\BlackListedEmailDomainService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T04:57:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BlacklistedPhoneNumbersService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Services\\BlacklistedPhoneNumbersService.cs",
+              "RelativeDocumentMoniker": "Services\\BlacklistedPhoneNumbersService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Services\\BlacklistedPhoneNumbersService.cs",
+              "RelativeToolTip": "Services\\BlacklistedPhoneNumbersService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:41:16.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerDetailDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Validators\\CustomerDetailDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CustomerDetailDtoValidator.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Validators\\CustomerDetailDtoValidator.cs",
+              "RelativeToolTip": "Validators\\CustomerDetailDtoValidator.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:20:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICustomerDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ICustomerDetailRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\ICustomerDetailRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Interface\\ICustomerDetailRepository.cs",
+              "RelativeToolTip": "Interface\\ICustomerDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:26:09.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\LoanApplication.csproj",
+              "RelativeDocumentMoniker": "LoanApplication.csproj",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\LoanApplication.csproj",
+              "RelativeToolTip": "LoanApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T06:39:58.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BlacklistedPhoneNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\BlacklistedPhoneNumbers.cs",
+              "RelativeDocumentMoniker": "Model\\BlacklistedPhoneNumbers.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Model\\BlacklistedPhoneNumbers.cs",
+              "RelativeToolTip": "Model\\BlacklistedPhoneNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:56:30.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICustomerDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\ICustomerDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICustomerDetailRepository.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\ICustomerDetailRepository.cs",
+              "RelativeToolTip": "Repository\\ICustomerDetailRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:13:25.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICustomerDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\ICustomerDetailService.cs",
+              "RelativeDocumentMoniker": "Repository\\ICustomerDetailService.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Repository\\ICustomerDetailService.cs",
+              "RelativeToolTip": "Repository\\ICustomerDetailService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:15:35.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241226065843_InitializeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20241226065843_InitializeDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241226065843_InitializeDatabase.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20241226065843_InitializeDatabase.cs",
+              "RelativeToolTip": "Migrations\\20241226065843_InitializeDatabase.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:58:43.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241226064937_init.cs",
+              "DocumentMoniker": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20241226064937_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241226064937_init.cs",
+              "ToolTip": "C:\\Users\\wilso\\OneDrive\\Documents\\New folder (2)\\WebApplication2\\Migrations\\20241226064937_init.cs",
+              "RelativeToolTip": "Migrations\\20241226064937_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:49:37.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
