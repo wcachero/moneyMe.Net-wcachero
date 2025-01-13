@@ -18,7 +18,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowLocalhost",
         policyBuilder =>
         {
-            policyBuilder.WithOrigins("http://localhost:4200")
+            policyBuilder.WithOrigins("https://wcachero.github.io/MoneyMe.Angular-wcachero")
                          .AllowAnyHeader()
                          .AllowAnyMethod();
         });
